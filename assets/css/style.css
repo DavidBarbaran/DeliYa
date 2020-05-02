@@ -5853,7 +5853,7 @@ z .slider-area .hero-cap h2 {
     line-height: 105px;
     border-radius: 50%;
     text-align: center;
-    background: #e88cea;
+    background: #DE560B;
     margin-bottom: 42px;
     -webkit-transition: .5s;
     -moz-transition: .5s;
@@ -5870,11 +5870,11 @@ z .slider-area .hero-cap h2 {
 }
 
 .service-area .services-caption .service-cap h4 a:hover {
-    color: #835ef8
+    color: #DE560B;
 }
 
 .services-caption:hover {
-    border: 1px solid #b8a2ff
+    border: 1px solid #DE560B
 }
 
 .services-caption:hover .service-icon::before {
@@ -5882,11 +5882,11 @@ z .slider-area .hero-cap h2 {
 }
 
 .services-caption:hover .service-icon span {
-    background: #835ef8
+    background: #A85400
 }
 
 .services-caption.active {
-    border: 1px solid #b8a2ff
+    border: 1px solid #DE560B
 }
 
 .services-caption.active .service-icon::before {
@@ -5894,7 +5894,7 @@ z .slider-area .hero-cap h2 {
 }
 
 .services-caption.active .service-icon span {
-    background: #835ef8
+    background: #DE560B
 }
 
 .applic-apps {

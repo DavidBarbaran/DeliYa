@@ -21,7 +21,7 @@ a, a:hover, a:focus{
 }
 h1, h2, h3,
 h4, h5, h6 {
-    color: #333;
+    
 	margin:0;
     font-weight: normal;
 }
@@ -221,11 +221,11 @@ section p {
     max-width: 100%;
 }
 
+/** Custom styles **/
 
-
-
-
-
+.section-tittle text-center {
+    font-family: Montserrat;
+}
 
 
 
